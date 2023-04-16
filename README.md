@@ -1,2 +1,2 @@
-# idkai
-idkai uses the OpenWeather API to get the weather and tells farmers if the weather and the wind speed is ideal for crops/agriculture or not.
+### _AgroMetrix_
+AgroMetrix is a piece of software that helps farmers by using the OpenWeather API in Python to gather weather data. It then uses advanced technology to analyze this data and determine whether the current weather conditions are suitable for growing crops. By providing real-time weather information, AgroMetrix helps farmers make informed decisions about planting and harvesting crops, which in turn can improve yields and optimize agricultural practices.
